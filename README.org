@@ -2,9 +2,8 @@
 
 A common lisp wrapper for SDL2_TTF used for loading fonts and creating text assets
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/sharplispers/cl-sdl2-ttf.git   |
-| commit  | 63eb4de  |
-| systems | cl-sdl2-ttf |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/sharplispers/cl-sdl2-ttf.git |
+| commit  | 63eb4de                                             |
+| systems | sdl2-ttf                                            |
+|---------+-----------------------------------------------------|
