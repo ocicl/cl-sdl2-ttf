@@ -4,6 +4,6 @@ A common lisp wrapper for SDL2_TTF used for loading fonts and creating text asse
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/sharplispers/cl-sdl2-ttf.git |
-| commit  | 63eb4de                                             |
+| commit  | 90b0fcb                                             |
 | systems | sdl2-ttf                                            |
 |---------+-----------------------------------------------------|
