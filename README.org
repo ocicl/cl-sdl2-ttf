@@ -7,4 +7,4 @@ A common lisp wrapper for SDL2_TTF used for loading fonts and creating text asse
 | commit  | 90b0fcb                                             |
 | systems | sdl2-ttf                                            |
 |---------+-----------------------------------------------------|
- 
+  
